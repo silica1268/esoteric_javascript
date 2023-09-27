@@ -1,5 +1,5 @@
 # esoteric_javascript
-It is possible to write any JavaScript program using only the characters +, !, \[, \], \(, \). So I wrote a JavaScript to JavaScript compiler where you can input any JavaScript program and the compiler will produce a JavaScript program that does the same thing, but using only the previously mentionned characters.
+It is possible to write any JavaScript program using only the characters + ! \[ \] \( \). So I wrote a JavaScript to JavaScript compiler where you can input any JavaScript program and the compiler will produce a JavaScript program that does the same thing, but using only the previously mentionned characters.
 
 **\*Warning\***: The compiled JavaScript programs might be very large and slow to execute.
 
